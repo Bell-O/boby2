@@ -13,7 +13,7 @@ cd $HOME
 
 cd boby2
 
-cp boby.py /data/data/com.termux/files/usr/etc
+cp boby2.py /data/data/com.termux/files/usr/etc
 
 rm setup.sh
 
