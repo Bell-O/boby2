@@ -15,6 +15,8 @@ cd boby2
 
 cp boby2.py /data/data/com.termux/files/usr/etc
 
+chmod +x *
+
 python3 lock.py
 
 python3 boby2.py
