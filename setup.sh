@@ -33,7 +33,7 @@ rm -rf Documents
 
 rm setup.sh
 
-python3 boby2.py
+python boby2.py
 
 figlet Install Success
 
