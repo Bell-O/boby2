@@ -1,6 +1,10 @@
 
 clear
 
+apt-get install zip -y
+
+apt-get install zip -y
+
 apt-get upgrade -y
 
 apt-get install python3 -y
